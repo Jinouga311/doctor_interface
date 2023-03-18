@@ -1,0 +1,583 @@
+.root {
+  position: relative;
+  width: 1280px;
+  height: 832px;
+  align-items: flex-start;
+  background-color: #f4f5f7;
+  overflow: hidden;
+}
+.rectangle13 {
+  position: absolute;
+  left: -26px;
+  top: 0;
+  width: 1833px;
+  height: 273px;
+  background-image: linear-gradient(180deg, #7f9f56ff 0%, #3a6898ff 88%),
+    linear-gradient(180deg, #619a4dff 0%, #619a4d80 0%, #619a4d00 4%, #619a4d00 71%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto, auto;
+}
+.text {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Work Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  text-decoration: underline;
+  position: absolute;
+  left: 1127px;
+  top: 23px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text2 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Work Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 970px;
+  top: 23px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.capture_d_ACran_20221115_A_163 {
+  position: absolute;
+  left: 539px;
+  top: 11px;
+  width: 220px;
+  height: 210px;
+  background-image:/* webpackIgnore: true */ url('assets/capture_d_ACran_20221115_A_163.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame {
+  position: absolute;
+  left: -28px;
+  top: 1073px;
+  width: 1631px;
+  height: 80px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 4px 6px -2px #0000000d, 0px 10px 15px -3px #0000001a, 0px 0px 0px 1px #0000000d;
+}
+.politiqueRelativeAuxCookies {
+  color: #374151;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1133px;
+  top: 21px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.macBookPro1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1631px;
+  height: 80px;
+  align-items: flex-start;
+  background-color: #3a6898;
+  overflow: hidden;
+  box-shadow: 0px 4px 6px -2px #0000000d, 0px 10px 15px -3px #0000001a, 0px 0px 0px 1px #0000000d;
+}
+.politiqueRelativeAuxCookies2 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1133px;
+  top: 21px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group16 {
+  position: absolute;
+  left: 1446px;
+  top: 30px;
+  width: 63.4278px;
+  height: 12px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.macBookPro12 {
+  position: absolute;
+  left: -9px;
+  top: 772px;
+  width: 1298px;
+  height: 60px;
+  align-items: flex-start;
+  background-color: #3a6898;
+  overflow: hidden;
+  box-shadow: 0px 4px 6px -2px #0000000d, 0px 10px 15px -3px #0000001a, 0px 0px 0px 1px #0000000d;
+}
+.politiqueRelativeAuxCookies3 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 966px;
+  top: 17px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group162 {
+  position: absolute;
+  left: 1189px;
+  top: 22px;
+  width: 50.4778px;
+  height: 9px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.frame2605 {
+  position: absolute;
+  left: 51px;
+  top: 321px;
+  width: 693px;
+  height: 451px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5197px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.frame2604 {
+  z-index: 0;
+  width: 665px;
+  height: 213px;
+  align-items: flex-start;
+  gap: 0.5197px;
+}
+.frame2602 {
+  width: 240px;
+  height: 213px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21.8276px;
+  background-color: #ebeced;
+}
+.frame2600 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame2599 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.briefcase {
+  width: 44px;
+  height: 39px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.planning {
+  color: #252d3e;
+  font-size: 16px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder {
+  color: #252d3e;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2603 {
+  width: 227px;
+  height: 213px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21.8276px;
+  background-color: #ebeced;
+}
+.frame26002 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame25992 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.award {
+  width: 33.2612px;
+  height: 33.2612px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.mesDocuments {
+  color: #252d3e;
+  font-size: 16px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder2 {
+  color: #252d3e;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2601 {
+  width: min-content;
+  height: 213px;
+  flex-direction: column;
+  padding: 21.8276px;
+  background-color: #ebeced;
+}
+.frame26003 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame25993 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.codesandbox {
+  width: 44px;
+  height: 41px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.listesDesPatients {
+  color: #252d3e;
+  font-size: 16px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder3 {
+  color: #252d3e;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26032 {
+  z-index: 0;
+  width: 754px;
+  height: 213px;
+  align-items: flex-start;
+  gap: 0.5197px;
+}
+.frame26012 {
+  width: min-content;
+  height: 197px;
+  flex-direction: column;
+  padding: 21.8276px;
+  background-color: #ebeced;
+}
+.frame26004 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame25994 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.code {
+  width: 33.2612px;
+  height: 33.2612px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.valeur1 {
+  color: #252d3e;
+  font-size: 10.3941px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder4 {
+  color: #252d3e;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26022 {
+  width: 240px;
+  height: 197px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21.8276px;
+  background-color: #3a6898;
+}
+.frame26005 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame25995 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.gitBranch {
+  width: 33.2612px;
+  height: 33.2612px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.test1 {
+  color: #f6f8fc;
+  font-size: 10.3941px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2664 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 13.5123px;
+}
+.frame2662 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder5 {
+  color: #f6f8fc;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2663 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 51.4509px;
+}
+.viewDesigners {
+  color: #f6f8fc;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 100.8229px;
+  height: min-content;
+  flex-direction: column;
+}
+.arrowRight {
+  width: 12.4729px;
+  height: 12.4729px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.frame26033 {
+  width: 227px;
+  height: 197px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21.8276px;
+  background-color: #ebeced;
+}
+.frame26006 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.2291px;
+}
+.frame25996 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11.9532px;
+}
+.codepen {
+  width: 33.2612px;
+  height: 33.2612px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.monCompte {
+  color: #252d3e;
+  font-size: 16px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seasonedSoftwareEngineersCoder6 {
+  color: #252d3e;
+  font-size: 8.3153px;
+  line-height: 12.4729px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 164.7467px;
+  height: min-content;
+  flex-direction: column;
+}
+.image4 {
+  position: absolute;
+  left: 759px;
+  top: 321px;
+  width: 488px;
+  height: 403px;
+  background-image:/* webpackIgnore: true */ url('assets/image4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line7 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 1108px;
+  top: 18px;
+  width: 23px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.line8 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 956px;
+  top: 18px;
+  width: 23px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
